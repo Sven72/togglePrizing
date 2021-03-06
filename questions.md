@@ -1,12 +1,3 @@
-<!-- Zeit: -->
-<!-- 26.02: 45min -->
-<!-- 27.02: 2h -->
-<!-- Krieg den Toggle nicht hin -->
-<!-- 28.02: 1h -->
-<!-- Toggle funktioniert jetzt -->
-<!-- 03.03: 2h -->
-<!-- Versuche Toggler zum LAufen zu kriegen  -->
-
 Ressourcen
 
 <!-- https://enmascript.com/articles/2019/09/26/toggle-content-on-click-without-javascript -->
